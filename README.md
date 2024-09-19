@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Dhiraj Salunke and I'm a 🖼️ Frontend Developer, from Pune</p>
+<p align="left">My name is Dhiraj Salunke and I'm a 🖼️ software Developer, from Pune</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently Making Projects in React<br>🎯 My Goal: Become a Full stack Web Developer 📌</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently Making Projects in python🎯📌</p>
 
 ###
 
