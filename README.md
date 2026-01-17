@@ -1,5 +1,5 @@
 # 💫 About Me:
-Building my skills through hands-on projects and improving my problem-solving abilities.<br><br>Interesting projects where I can learn, contribute ideas, and grow with a team—especially open-source or beginner-friendly ones.<br><br>Best practices, learning resources, and guidance to improve my understanding and efficiency.<br><br>New technologies and concepts to strengthen my foundation and expand my skill set.<br><br>My learning journey, projects I’m working on, or topics I’m passionate about.<br><br>I enjoy learning something new every day and turning challenges into opportunities 🚀
+
 
 
 ## 🌐 Socials:
